@@ -10,7 +10,7 @@ And a Machine Learning enthusiast.
 
 ## Skills
 
-- 👨‍💻 Python, C#, C/C++, Prolog, Haskell
+- 👨‍💻 Python, C#, C/C++, Prolog, Haskell, R
 - ⚙️ Django
 - 👁️ HTML, CSS
 - 💽 MySQL, SQL, SQLite
