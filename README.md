@@ -14,6 +14,7 @@ And a Machine Learning enthusiast.
 - ⚙️ Django
 - 👁️ HTML, CSS
 - 💽 MySQL, SQL, SQLite
+- 🧰 Linux, VS Code, Docker, Git, Github
 
 
 ----
