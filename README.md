@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a Computer Science student at MATCOM, University of Havana.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I'm a Computer Science student at MATCOM, University of Havana.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
 And a Machine Learning enthusiast.
 
