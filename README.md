@@ -11,11 +11,11 @@ And a Machine Learning enthusiast.
 ## Skills
 
 - 👨‍💻 Python, C#, C/C++, Prolog, Haskell, R
-- ⚙️ Django
+- ⚙️ Django, FastAPI, Docker
 - 👁️ HTML, CSS
-- 💽 MySQL, SQL, SQLite
+- 💽 MySQL, SQLite
 - 🤖 Tensorflow, Keras
-- 🧰 Linux, VS Code, Docker, Git, Github
+- 🧰 Linux, VS Code, Git, Github
 
 
 
