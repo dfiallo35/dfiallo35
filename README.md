@@ -12,9 +12,8 @@ And a Machine Learning enthusiast.
 
 - 👨‍💻 Python, C#, C/C++, Prolog, Haskell, R
 - ⚙️ Django, FastAPI, Docker
-- 👁️ HTML, CSS
-- 💽 MySQL, SQLite
-- 🤖 Tensorflow, Keras
+- 💽 SQL
+- 🤖 Keras
 - 🧰 Linux, VS Code, Git, Github
 
 
