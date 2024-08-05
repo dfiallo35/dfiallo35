@@ -5,8 +5,8 @@ I'm a computer scientist with a passion for machine learning, artificial intelli
 
 
 ## GitHub stats:
-[![Dennis GitHub stats](https://github-readme-stats.vercel.app/api?username=dfiallo35&show_icons=true&line_height=27&include_all_commits=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<img align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=dfiallo35&show_icons=true&locale=en&theme=onedark" alt="dfiallo35" />
 
 ## Languajes
 
