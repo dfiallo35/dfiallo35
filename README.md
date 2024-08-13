@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a computer scientist with a passion for machine learning, artificial intelligence, and web development. I thrive on staying up-to-date with the latest advancements and leveraging innovative tools. Collaboration and delivering high-quality software solutions are my strengths. Let's make a positive impact through exceptional development!
+I am a computer science graduate from the University of Havana with experience as a backend developer at General Software Inc. and as a freelance full-stack developer. I specialize in web application development using FastAPI and Frappe, and possess strong skills in cloud services and infrastructure as code. My research includes work on time series prediction using advanced machine learning techniques. Proficient in Python, JavaScript, TypeScript, and C#, I also have expertise in data science, AI, and computer architecture. I am dedicated to leveraging technology to drive innovation and address complex problems.
 
 
 
