@@ -41,4 +41,4 @@ Beyond development, I have deep expertise in AWS services and infrastructure as 
 
 ----
 
-Contact me through [twitter](https://twitter.com/dionisio3535), [email](mailto:dfiallo35@gmail.com) or [telegram](https://t.me/code_418).
+Contact me through [linkedin](https://www.linkedin.com/in/dennis-fiallo-a75670256), [email](mailto:dfiallo35@gmail.com) or [telegram](https://t.me/dfiallo35).
