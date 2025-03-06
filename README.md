@@ -18,25 +18,25 @@ Beyond development, I have deep expertise in AWS services and infrastructure as 
 ## Frameworks
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,django,dotnet,react,angular,vite" />
+  <img src="https://skillicons.dev/icons?i=fastapi,django,dotnet,react,vite" />
 </div>
 
 ## Tools
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=docker,terraform,tailwind,bootstrap,git,aws" />
+  <img src="https://skillicons.dev/icons?i=docker,terraform,tailwind,aws" />
 </div>
 
 ## Databases
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,dynamodb" />
 </div>
 
 ## Others
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=linux,vscode,bash,postman,github,bitbucket,gitlab" />
+  <img src="https://skillicons.dev/icons?i=linux,vscode,bash,postman,git,github,bitbucket,gitlab" />
 </div>
 
 ----
