@@ -1,7 +1,8 @@
 # Hi there 👋
 
-I am a computer science graduate from the University of Havana with experience as a backend developer at General Software Inc. and as a freelance full-stack developer. I specialize in web application development using FastAPI and Frappe, and possess strong skills in cloud services and infrastructure as code. My research includes work on time series prediction using advanced machine learning techniques. Proficient in Python, JavaScript, TypeScript, and C#, I also have expertise in data science, AI, and computer architecture. I am dedicated to leveraging technology to drive innovation and address complex problems.
+I am a Computer Science graduate from the University of Havana with a strong background in Backend and FullStack Development. With experience as a Backend Developer at Avangenio and as a freelance FullStack Developer, I specialize in building high-performance, scalable web applications using FastAPI, .NET Core, and React.
 
+Beyond development, I have deep expertise in AWS services and infrastructure as code with Terraform, allowing me to architect and deploy robust cloud-based solutions efficiently. I am proficient in Python, JavaScript, TypeScript, and C#, bringing a versatile and comprehensive skill set to modern software development.
 
 
 ## GitHub stats:
