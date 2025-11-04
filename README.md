@@ -12,13 +12,13 @@ Beyond development, I have deep expertise in AWS services and infrastructure as 
 ## Languajes
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,c,cs,html,css" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,cs,html,css" />
 </div>
 
 ## Frameworks
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,django,dotnet,react,vite" />
+  <img src="https://skillicons.dev/icons?i=fastapi,dotnet,react,vite" />
 </div>
 
 ## Tools
@@ -30,13 +30,19 @@ Beyond development, I have deep expertise in AWS services and infrastructure as 
 ## Databases
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,dynamodb" />
+  <img src="https://skillicons.dev/icons?i=postgresql,sqlite,dynamodb" />
 </div>
 
 ## Others
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=linux,vscode,bash,postman,git,github,bitbucket,gitlab" />
+</div>
+
+## Game Engines
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=unity" />
 </div>
 
 ----
