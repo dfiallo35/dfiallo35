@@ -1,50 +1,61 @@
-# Hi there 👋
+# Hi there 👋 I'm Dennis
 
-I am a Computer Science graduate from the University of Havana with a strong background in Backend and FullStack Development. With experience as a Backend Developer at Avangenio and as a freelance FullStack Developer, I specialize in building high-performance, scalable web applications using FastAPI, .NET Core, and React.
+🎓 Computer Science graduate with experience in AI and a passion for building scalable backend systems.
 
-Beyond development, I have deep expertise in AWS services and infrastructure as code with Terraform, allowing me to architect and deploy robust cloud-based solutions efficiently. I am proficient in Python, JavaScript, TypeScript, and C#, bringing a versatile and comprehensive skill set to modern software development.
+🚀 Backend & FullStack Developer focused on building scalable, high-performance applications.
 
+I specialize in designing robust systems using **FastAPI, and React**, with strong experience in **AWS and Terraform** for cloud infrastructure.
 
-## GitHub stats:
+💡 I enjoy turning complex problems into clean, efficient solutions — from API design to deployment.
 
-<img align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=dfiallo35&show_icons=true&locale=en&theme=onedark" alt="dfiallo35" />
+## 🧠 Tech Stack
 
-## Languajes
-
-<div align="left">
+### Languages
+<div>
   <img src="https://skillicons.dev/icons?i=py,js,ts,cs,html,css" />
 </div>
 
-## Frameworks
-
-<div align="left">
+### Frameworks
+<div>
   <img src="https://skillicons.dev/icons?i=fastapi,dotnet,react,vite" />
 </div>
 
-## Tools
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=docker,terraform,tailwind,aws" />
+### Cloud & Tools
+<div>
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,tailwind" />
 </div>
 
-## Databases
-
-<div align="left">
+### Databases
+<div>
   <img src="https://skillicons.dev/icons?i=postgresql,sqlite,dynamodb" />
 </div>
 
-## Others
+## 📌 Featured Projects
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=linux,vscode,bash,postman,git,github,bitbucket,gitlab" />
-</div>
+🔹 **Alivi Ride**  
+App for managing rides and drivers in a medical context.  
+→ Scalable backend + real-time coordination.
 
-## Game Engines
+🔹 **Alivi PDMS**  
+Lead and credential management system.  
+→ Backend-focused with high availability.
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=unity" />
-</div>
+👉 Check more in my [portfolio](https://dennis-portfolio-nine.vercel.app/)
 
-----
 
-Contact me through [linkedin](https://www.linkedin.com/in/dennis-fiallo-a75670256), [email](mailto:dfiallo35@gmail.com) or [telegram](https://t.me/dfiallo35).
+## 📊 GitHub Stats
+
+<img align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=dfiallo35&show_icons=true&theme=onedark" />
+
+## 🚧 Currently
+
+- Building scalable backend systems  
+- Exploring AI integration in workflows  
+- Improving cloud architecture patterns  
+
+
+## 📫 Contact
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/dennis-fiallo-a75670256)
+- 📧 dfiallo35@gmail.com
+- 💬 [Telegram](https://t.me/dfiallo35)
