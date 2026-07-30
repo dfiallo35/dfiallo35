@@ -69,7 +69,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dfiallo35&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dfiallo35&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=dfiallo35&theme=tokyonight&hide_border=true" width="49%" />
 </div>
 
 <div align="center">
@@ -87,5 +87,5 @@
 <br />
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/dfiallo35/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=dfiallo35&label=Profile+Views&color=2E9EF7&style=flat" />
 </div>
