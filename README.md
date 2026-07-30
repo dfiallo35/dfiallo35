@@ -31,7 +31,7 @@
 
 ## 🧠 Tech Stack
 
-| | |
+| Category | Stack |
 | :--- | :--- |
 | **Languages** | <img src="https://skillicons.dev/icons?i=py,js,ts,cs,html,css" /> |
 | **Frameworks** | <img src="https://skillicons.dev/icons?i=fastapi,dotnet,react,vite" /> |
