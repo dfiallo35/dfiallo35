@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:1A1A2E&height=180&section=header&text=Hi%20there,%20I'm%20Dennis%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
-<a href="https://www.linkedin.com/in/dennis-fiallo-a75670256">
+<h3>Full Stack Developer · Backend & Cloud · Havana, Cuba 🇨🇺</h3>
+
+<a href="https://www.linkedin.com/in/dennis-fiallo">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:dfiallo35@gmail.com">
@@ -19,13 +21,15 @@
 
 <br />
 
-🎓 Computer Science graduate with experience in AI and a passion for building scalable backend systems.
+🎓 Computer Science graduate from the **University of Havana**, building web applications end to end — from the interfaces people use to the systems and infrastructure behind them.
 
-🚀 Backend & Full-Stack Developer focused on building scalable, high-performance applications.
+🛠️ I work primarily with **FastAPI & Python** on the backend and **Next.js & TypeScript** on the front, and design the cloud layer that runs it with **AWS** and **Terraform**.
 
-🛠️ I specialize in designing robust systems using **FastAPI and React**, with strong experience in **AWS and Terraform** for cloud infrastructure.
+🏗️ I care most about clean architecture: systems that stay fast, reliable, and simple to grow.
 
-💡 I enjoy turning complex problems into clean, efficient solutions — from API design to deployment.
+💼 **3+ years at [Avangenio](https://avangenio.com)** shipping production platforms across healthcare and sales operations — owning the backend: REST & WebSocket APIs, PostgreSQL data models, and AWS integrations.
+
+🧪 Former **AI Researcher** — time series forecasting in chaotic systems with Echo State Networks.
 
 <br />
 
@@ -33,26 +37,64 @@
 
 | Category | Stack |
 | :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=py,js,ts,cs,html,css" /> |
-| **Frameworks** | <img src="https://skillicons.dev/icons?i=fastapi,dotnet,react,vite" /> |
-| **Cloud & Tools** | <img src="https://skillicons.dev/icons?i=aws,terraform,docker,tailwind" /> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=postgresql,sqlite,dynamodb" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=py,ts,js,cs,cpp,html,css" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=fastapi,django,postgres" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=nextjs,react,angular,tailwind" /> |
+| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,terraform,docker,vercel,git,gitlab" /> |
+| **AI / ML** | <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" /> |
 
 <br />
 
-## 📌 Featured Projects
+## 💼 Experience
+
+**Back-end Developer @ Avangenio** · *Sep 2023 – Present*
+Backend engineer across production platforms for [Alivi](https://alivi.com/), a US healthcare benefits provider, and other clients — FastAPI APIs on a layered microservices architecture, kept highly available on AWS with Terraform.
+
+**Full Stack Developer · Freelance** · *Jul 2022 – Present*
+Custom web applications delivered end to end — Next.js front ends over FastAPI & PostgreSQL back ends, from requirements to deployment.
+
+**AI Researcher @ University of Havana** · *Jan 2023 – Jan 2024*
+"Dynamic Systems Analysis" research group — Echo State Networks (TensorFlow/Keras) benchmarked on the Lorenz, Mackey-Glass and Kuramoto-Sivashinsky systems.
+
+<br />
+
+## 📌 Featured Work
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>🔹 Alivi Ride</h3>
-      App for managing rides and drivers in a medical context.<br />
-      <i>Scalable backend + real-time coordination.</i>
+    <td width="50%" valign="top">
+      <h3>🚑 <a href="https://play.google.com/store/apps/details?id=com.alivi.memberapp">Alivi Ride</a></h3>
+      Non-emergency medical transportation: ride scheduling, driver assignment and patient coordination. Live on Google Play.<br />
+      <i>FastAPI · WebSockets · PostgreSQL · AWS</i>
     </td>
-    <td width="50%">
-      <h3>🔹 Alivi PDMS</h3>
-      Lead and credential management system.<br />
-      <i>Backend-focused with high availability.</i>
+    <td width="50%" valign="top">
+      <h3>🩺 Alivi PDMS & Flexcard/CRM</h3>
+      Provider credentialing and lead tracking driving onboarding and compliance, plus patient records, insurance claims and medical history.<br />
+      <i>FastAPI · PostgreSQL · Terraform</i>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📈 Havana Club S&OP</h3>
+      Sales & operations planning: demand forecasting, distribution by channel and territory, analytical reports with CSV/PDF export.<br />
+      <i>FastAPI · PostgreSQL · Reporting</i>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚚 <a href="https://truckbuild.vercel.app">TruckBuild</a></h3>
+      Build configurator for a truck upfitting company — live pricing across option groups, submitted as qualified leads.<br />
+      <i>Next.js · TypeScript · FastAPI · PostgreSQL</i> · <a href="https://github.com/dfiallo35/truckbuild">Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔗 <a href="https://github.com/dfiallo35/CausalFlow">CausalFlow</a></h3>
+      Visualizes causal relationships between nodes — adopted by the University of Havana Physics Faculty for research.<br />
+      <i>Python · Streamlit</i>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏢 ERP Systems</h3>
+      Frappe/ERPNext systems for organizations of national significance, including INOR (National Institute of Oncology).<br />
+      <i>Frappe · Python</i>
     </td>
   </tr>
 </table>
@@ -78,11 +120,9 @@
 
 <br />
 
-## 🚧 Currently
+## 🌍 Languages
 
-- Building scalable backend systems
-- Exploring AI integration in workflows
-- Improving cloud architecture patterns
+🇪🇸 Spanish — Native · 🇬🇧 English — Professional (EF SET B2) · 🇫🇷 French — Elementary
 
 <br />
 
