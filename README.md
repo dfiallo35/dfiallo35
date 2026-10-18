@@ -47,13 +47,13 @@
 
 ## 💼 Experience
 
-**Back-end Developer @ Avangenio** · *Sep 2023 – Present*
+**Backend Developer @ Avangenio** · *Sep 2023 – Present*
 Backend engineer across production platforms for [Alivi](https://alivi.com/), a US healthcare benefits provider, and other clients — FastAPI APIs on a layered microservices architecture, kept highly available on AWS with Terraform.
 
 **Full Stack Developer · Freelance** · *Jul 2022 – Present*
 Custom web applications delivered end to end — Next.js front ends over FastAPI & PostgreSQL back ends, from requirements to deployment.
 
-**AI Researcher @ University of Havana** · *Jan 2023 – Jan 2024*
+**AI Researcher @ University of Havana** · *Jan 2023 – Feb 2024*
 "Dynamic Systems Analysis" research group — Echo State Networks (TensorFlow/Keras) benchmarked on the Lorenz, Mackey-Glass and Kuramoto-Sivashinsky systems.
 
 <br />
