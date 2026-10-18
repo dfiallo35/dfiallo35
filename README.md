@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:1A1A2E&height=180&section=header&text=Hi%20there,%20I'm%20Dennis%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
-<h3>Full Stack Developer · Backend & Cloud · Havana, Cuba 🇨🇺</h3>
+<h3>Full Stack Engineer · Backend & Cloud · Havana, Cuba 🇨🇺</h3>
 
 <a href="https://www.linkedin.com/in/dennis-fiallo">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -30,6 +30,8 @@
 💼 **3+ years at [Avangenio](https://avangenio.com)** shipping production platforms across healthcare and sales operations — owning the backend: REST & WebSocket APIs, PostgreSQL data models, and AWS integrations.
 
 🧪 Former **AI Researcher** — time series forecasting in chaotic systems with Echo State Networks.
+
+🤝 **Available for freelance projects** — web platforms, APIs and AWS infrastructure, from requirements to deployment.
 
 <br />
 
