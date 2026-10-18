@@ -53,7 +53,7 @@
 Backend engineer across production platforms for [Alivi](https://alivi.com/) (US healthcare), Havana Club International and a UK recruitment SaaS company — FastAPI and NestJS APIs on layered architectures, GraphQL reporting, FIS card-processing integration, and AWS infrastructure managed with Terraform.
 
 **Full Stack Developer · Freelance** · *Jul 2022 – Present*
-Custom web applications delivered end to end — Next.js front ends over FastAPI & PostgreSQL back ends, from requirements to deployment.
+Full-stack applications for clients, end to end — **RealRental**, a rental-agency platform (bookings, payments, owner settlements, bilingual public site and role-based back office; now launching), and a property-management system for a private client. FastAPI & PostgreSQL back ends, Next.js/React front ends, deployed on Vercel.
 
 **AI Researcher @ University of Havana** · *Jan 2023 – Feb 2024*
 "Dynamic Systems Analysis" research group — Echo State Networks (TensorFlow/Keras) benchmarked on the Lorenz, Mackey-Glass and Kuramoto-Sivashinsky systems.
