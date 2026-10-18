@@ -39,11 +39,10 @@
 
 | Category | Stack |
 | :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=py,ts,js,cs,cpp,html,css" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=fastapi,django,postgres" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=nextjs,react,angular,tailwind" /> |
-| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,terraform,docker,vercel,git,gitlab" /> |
-| **AI / ML** | <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=py,ts,js,html,css" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=fastapi,nestjs,graphql,postgres" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" /> |
+| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,terraform,docker,vercel,githubactions,gitlab,bitbucket" /> |
 
 <br />
 
