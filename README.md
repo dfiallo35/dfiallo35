@@ -99,6 +99,18 @@ Full-stack applications for clients, end to end — **RealRental**, a rental-age
       <i>Frappe · Python</i>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏠 RealRental</h3>
+      Rental-agency platform for daily and long-term rentals: bookings, payments, owner settlements, bilingual public site and role-based back office. Freelance; now launching.<br />
+      <i>Next.js · FastAPI · PostgreSQL · Vercel</i>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📋 UK Recruitment SaaS</h3>
+      Applicant tracking system for UK businesses: offers, automated reminders, email-delivery reporting and production data repairs.<br />
+      <i>TypeScript · NestJS · React · PostgreSQL</i>
+    </td>
+  </tr>
 </table>
 
 <div align="center">
