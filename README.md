@@ -50,7 +50,7 @@
 ## 💼 Experience
 
 **Backend Developer @ Avangenio** · *Sep 2023 – Present*
-Backend engineer across production platforms for [Alivi](https://alivi.com/), a US healthcare benefits provider, and other clients — FastAPI APIs on a layered microservices architecture, kept highly available on AWS with Terraform.
+Backend engineer across production platforms for [Alivi](https://alivi.com/) (US healthcare), Havana Club International and a UK recruitment SaaS company — FastAPI and NestJS APIs on layered architectures, GraphQL reporting, FIS card-processing integration, and AWS infrastructure managed with Terraform.
 
 **Full Stack Developer · Freelance** · *Jul 2022 – Present*
 Custom web applications delivered end to end — Next.js front ends over FastAPI & PostgreSQL back ends, from requirements to deployment.
@@ -71,7 +71,7 @@ Custom web applications delivered end to end — Next.js front ends over FastAPI
     </td>
     <td width="50%" valign="top">
       <h3>🩺 Alivi PDMS & Flexcard/CRM</h3>
-      Provider credentialing and lead tracking driving onboarding and compliance, plus patient records, insurance claims and medical history.<br />
+      Provider credentialing and lead tracking driving onboarding and compliance, plus a benefits card platform with fund transactions through the FIS card-processing API.<br />
       <i>FastAPI · PostgreSQL · Terraform</i>
     </td>
   </tr>
