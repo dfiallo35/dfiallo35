@@ -13,7 +13,7 @@
 <a href="https://t.me/dfiallo35">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
-<a href="https://dennis-portfolio-nine.vercel.app/">
+<a href="https://dennisfiallo.dev/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
@@ -114,7 +114,7 @@ Full-stack applications for clients, end to end — **RealRental**, a rental-age
 
 <div align="center">
 
-👉 Check out more on my **[Portfolio](https://dennis-portfolio-nine.vercel.app/)**
+👉 Check out more on my **[Portfolio](https://dennisfiallo.dev/)**
 
 </div>
 
