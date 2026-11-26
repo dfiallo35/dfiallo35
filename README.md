@@ -44,7 +44,7 @@
 | **Languages** | <img src="https://skillicons.dev/icons?i=py,ts,js,html,css" /> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=fastapi,nestjs,graphql,postgres" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" /> |
-| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,terraform,docker,vercel,githubactions,gitlab,bitbucket" /> |
+| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,cloudflare,terraform,docker,vercel,githubactions,gitlab,bitbucket" /> |
 
 <br />
 
@@ -57,7 +57,7 @@ UK recruitment SaaS (TypeScript, NestJS, React, PostgreSQL), built AI-native wit
 FastAPI backends for [Alivi](https://alivi.com/) (US healthcare) and Havana Club International — serverless Python on AWS Lambda, GraphQL reporting, FIS card-processing integration, and AWS infrastructure managed with Terraform.
 
 **Full Stack Developer · Freelance** · *Jul 2022 – Present*
-Full-stack applications for clients, end to end — **[RealRentas](https://realrentas.com/)**, a rental-agency platform (bookings, payments, owner settlements, bilingual public site and role-based back office; in production), and a property-management system for a private client. FastAPI & PostgreSQL back ends, Next.js/React front ends, deployed on Vercel.
+Full-stack applications for clients, end to end — **[RealRentas](https://realrentas.com/)**, a rental-agency platform (bookings, payments, owner settlements, bilingual public site and role-based back office; in production), and a property-management system for a private client. FastAPI & PostgreSQL back ends, Next.js/React front ends, deployed on Cloudflare and Vercel.
 
 **AI Researcher @ University of Havana** · *Jan 2023 – Feb 2024*
 "Dynamic Systems Analysis" research group — Echo State Networks (TensorFlow/Keras) benchmarked on the Lorenz, Mackey-Glass and Kuramoto-Sivashinsky systems.
@@ -107,7 +107,7 @@ Full-stack applications for clients, end to end — **[RealRentas](https://realr
     <td width="50%" valign="top">
       <h3>🏠 <a href="https://realrentas.com/">RealRentas</a></h3>
       Rental-agency platform in production: 188 API operations, 42 tables, 1,000+ tests. Built solo, AI-native with Claude Code. Freelance.<br />
-      <i>Next.js · FastAPI · PostgreSQL · Vercel</i>
+      <i>Next.js · FastAPI · PostgreSQL · Cloudflare</i>
     </td>
     <td width="50%" valign="top">
       <h3>📋 UK Recruitment SaaS</h3>
