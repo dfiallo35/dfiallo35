@@ -140,7 +140,7 @@ Full-stack applications for clients, end to end — **[RealRentas](https://realr
 
 ## 🌍 Languages
 
-🇪🇸 Spanish — Native · 🇬🇧 English — Professional (EF SET B2) · 🇫🇷 French — Elementary
+🇪🇸 Spanish — Native · 🇬🇧 English — Professional (EF SET B2)
 
 <br />
 
