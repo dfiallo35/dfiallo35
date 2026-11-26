@@ -52,7 +52,7 @@
 Backend engineer across production platforms for [Alivi](https://alivi.com/) (US healthcare), Havana Club International and a UK recruitment SaaS company — FastAPI and NestJS APIs on layered architectures, GraphQL reporting, FIS card-processing integration, and AWS infrastructure managed with Terraform.
 
 **Full Stack Developer · Freelance** · *Jul 2022 – Present*
-Full-stack applications for clients, end to end — **RealRental**, a rental-agency platform (bookings, payments, owner settlements, bilingual public site and role-based back office; now launching), and a property-management system for a private client. FastAPI & PostgreSQL back ends, Next.js/React front ends, deployed on Vercel.
+Full-stack applications for clients, end to end — **[RealRentas](https://realrentas.com/)**, a rental-agency platform (bookings, payments, owner settlements, bilingual public site and role-based back office; in production), and a property-management system for a private client. FastAPI & PostgreSQL back ends, Next.js/React front ends, deployed on Vercel.
 
 **AI Researcher @ University of Havana** · *Jan 2023 – Feb 2024*
 "Dynamic Systems Analysis" research group — Echo State Networks (TensorFlow/Keras) benchmarked on the Lorenz, Mackey-Glass and Kuramoto-Sivashinsky systems.
@@ -100,8 +100,8 @@ Full-stack applications for clients, end to end — **RealRental**, a rental-age
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏠 RealRental</h3>
-      Rental-agency platform for daily and long-term rentals: bookings, payments, owner settlements, bilingual public site and role-based back office. Freelance; now launching.<br />
+      <h3>🏠 <a href="https://realrentas.com/">RealRentas</a></h3>
+      Rental-agency platform for daily and long-term rentals: bookings, payments, owner settlements, bilingual public site and role-based back office. Freelance; in production.<br />
       <i>Next.js · FastAPI · PostgreSQL · Vercel</i>
     </td>
     <td width="50%" valign="top">
