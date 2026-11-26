@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:1A1A2E&height=180&section=header&text=Hi%20there,%20I'm%20Dennis%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
-<h3>Full Stack Engineer · Backend & Cloud · Havana, Cuba 🇨🇺</h3>
+<h3>Full Stack & AI-Native Engineer · Backend & Cloud · Havana, Cuba 🇨🇺</h3>
 
 <a href="https://www.linkedin.com/in/dennis-fiallo">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -27,6 +27,8 @@
 
 🏗️ I care most about clean architecture: systems that stay fast, reliable, and simple to grow.
 
+🤖 **AI-native**: I build with Claude Code agents under spec-driven review, tests and CI, and every change is reviewed by me.
+
 💼 **3+ years at [Avangenio](https://avangenio.com)** shipping production platforms across healthcare and sales operations — owning the backend: REST & WebSocket APIs, PostgreSQL data models, and AWS integrations.
 
 🧪 Former **AI Researcher** — time series forecasting in chaotic systems with Echo State Networks.
@@ -48,8 +50,11 @@
 
 ## 💼 Experience
 
-**Backend Developer @ Avangenio** · *Sep 2023 – Present*
-Backend engineer across production platforms for [Alivi](https://alivi.com/) (US healthcare), Havana Club International and a UK recruitment SaaS company — FastAPI and NestJS APIs on layered architectures, GraphQL reporting, FIS card-processing integration, and AWS infrastructure managed with Terraform.
+**Full Stack & AI-Native Engineer @ Avangenio** · *Aug 2026 – Present*
+UK recruitment SaaS (TypeScript, NestJS, React, PostgreSQL), built AI-native with Claude Code agents under spec-driven review — database resilience, audited production data repairs and real-database integration tests.
+
+**Backend Developer @ Avangenio** · *Sep 2023 – Jul 2026*
+FastAPI backends for [Alivi](https://alivi.com/) (US healthcare) and Havana Club International — serverless Python on AWS Lambda, GraphQL reporting, FIS card-processing integration, and AWS infrastructure managed with Terraform.
 
 **Full Stack Developer · Freelance** · *Jul 2022 – Present*
 Full-stack applications for clients, end to end — **[RealRentas](https://realrentas.com/)**, a rental-agency platform (bookings, payments, owner settlements, bilingual public site and role-based back office; in production), and a property-management system for a private client. FastAPI & PostgreSQL back ends, Next.js/React front ends, deployed on Vercel.
@@ -65,24 +70,24 @@ Full-stack applications for clients, end to end — **[RealRentas](https://realr
   <tr>
     <td width="50%" valign="top">
       <h3>🚑 <a href="https://play.google.com/store/apps/details?id=com.alivi.memberapp">Alivi Ride</a></h3>
-      Non-emergency medical transportation: ride scheduling, driver assignment and patient coordination. Live on Google Play.<br />
+      Trip-dispatch backend: 24 services for the full trip lifecycle, event-driven pickup reminders and WebSocket updates to the driver app. Live on Google Play.<br />
       <i>FastAPI · WebSockets · PostgreSQL · AWS</i>
     </td>
     <td width="50%" valign="top">
       <h3>🩺 Alivi PDMS & Flexcard/CRM</h3>
-      Provider credentialing and lead tracking driving onboarding and compliance, plus a benefits card platform with fund transactions through the FIS card-processing API.<br />
+      60 of ~250 serverless modules for provider credentialing and lead tracking, plus fund transactions through the FIS card-processing API.<br />
       <i>FastAPI · PostgreSQL · Terraform</i>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>📈 Havana Club S&OP</h3>
-      Sales & operations planning: demand forecasting, distribution by channel and territory, analytical reports with CSV/PDF export.<br />
-      <i>FastAPI · PostgreSQL · Reporting</i>
+      GraphQL reporting APIs for sales & operations planning: demand forecasts, distribution by channel and territory, CSV/PDF export.<br />
+      <i>FastAPI · GraphQL · PostgreSQL</i>
     </td>
     <td width="50%" valign="top">
       <h3>🚚 <a href="https://truckbuild.vercel.app">TruckBuild</a></h3>
-      Build configurator for a truck upfitting company — live pricing across option groups, submitted as qualified leads.<br />
+      Build configurator with live pricing mirrored on client and server and 257 tests in CI. Built AI-native with Claude Code.<br />
       <i>Next.js · TypeScript · FastAPI · PostgreSQL</i> · <a href="https://github.com/dfiallo35/truckbuild">Code</a>
     </td>
   </tr>
@@ -101,12 +106,12 @@ Full-stack applications for clients, end to end — **[RealRentas](https://realr
   <tr>
     <td width="50%" valign="top">
       <h3>🏠 <a href="https://realrentas.com/">RealRentas</a></h3>
-      Rental-agency platform for daily and long-term rentals: bookings, payments, owner settlements, bilingual public site and role-based back office. Freelance; in production.<br />
+      Rental-agency platform in production: 188 API operations, 42 tables, 1,000+ tests. Built solo, AI-native with Claude Code. Freelance.<br />
       <i>Next.js · FastAPI · PostgreSQL · Vercel</i>
     </td>
     <td width="50%" valign="top">
       <h3>📋 UK Recruitment SaaS</h3>
-      Applicant tracking system for UK businesses: offers, automated reminders, email-delivery reporting and production data repairs.<br />
+      Applicant tracking system for UK businesses, built AI-native with Claude Code: database resilience, audited production data repairs and real-database integration tests.<br />
       <i>TypeScript · NestJS · React · PostgreSQL</i>
     </td>
   </tr>
